@@ -1,0 +1,36 @@
+{
+  "name": "lineman-vendor-split",
+  "description": "A granular vendor/app bundle splitting plugin for Lineman",
+  "version": "0.1.0",
+  "homepage": "https://github.com/linemanjs/lineman-vendor-split",
+  "author": {
+    "name": "Dave Mosher",
+    "email": "dave@testdouble.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/linemanjs/lineman-vendor-split.git"
+  },
+  "bugs": {
+    "url": "https://github.com/linemanjs/lineman-vendor-split/issues"
+  },
+  "peerDependencies": {
+    "lineman": ">= 0.34.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-release": "^0.7.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://testdouble.mit-license.org"
+    }
+  ],
+  "keywords": [
+    "lineman",
+    "linemanplugin",
+    "bundle",
+    "split"
+  ]
+}
