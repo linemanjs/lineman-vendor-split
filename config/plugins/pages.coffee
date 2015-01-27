@@ -1,6 +1,5 @@
 module.exports = (lineman) ->
   config:
-    goats: "scream"
     pages:
       dev:
         context:

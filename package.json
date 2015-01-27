@@ -1,7 +1,7 @@
 {
   "name": "lineman-vendor-split",
   "description": "A granular vendor/app bundle splitting plugin for Lineman",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/linemanjs/lineman-vendor-split",
   "author": {
     "name": "Dave Mosher",

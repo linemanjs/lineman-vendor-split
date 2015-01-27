@@ -1,5 +1,4 @@
 module.exports = (lineman) ->
-  console.log "ran lineman-vendor-split concat_sourcemap.coffee"
   config:
     concat_sourcemap:
       js:
